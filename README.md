@@ -2,7 +2,6 @@
 - 👀 I’m interested in automating everyday task, ethical hacking, and creation and development of ideas
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on any open-source I can contribute to, so I can put into practice what I have learned
-- 📫 How to reach me michaelscollab201@gmail.com
 
 <!---
 Michael-Smith201/Michael-Smith201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
